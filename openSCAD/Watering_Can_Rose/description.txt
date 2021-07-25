@@ -1,0 +1,3 @@
+Watering can rose nozzle customizable
+
+Watering can rose for printing with FDM printers. Bottom of the model is flat but the holes are inclined to spread the water. Customisable / customizable / parametric

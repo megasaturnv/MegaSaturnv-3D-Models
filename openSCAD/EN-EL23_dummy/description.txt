@@ -1,0 +1,5 @@
+EN-EL23 dummy battery (Nikon cameras) Parametric
+
+The EN-EL23 battery in my Nikon Coolpix P610 camera degraded and the standard battery life was poor anyway. I wanted to use the camera for timelapses so a larger battery was needed.
+
+This is a dummy EN-EL23 which allows the camera to be powered with an external Lithium ion cell/battery or power supply (within li-ion voltage range)

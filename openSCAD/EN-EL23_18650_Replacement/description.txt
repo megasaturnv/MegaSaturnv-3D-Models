@@ -1,0 +1,7 @@
+EN-EL23 dummy battery 18650 Replacement (Nikon cameras)
+
+The EN-EL23 battery in my Nikon Coolpix P610 camera degraded and the standard battery life was poor anyway. I wanted to use the camera for timelapses so a larger battery was needed.
+
+This is a dummy EN-EL23 with a mounting point for an 18650 holder. It allows the camera to be powered with an 18650 lithium ion cell. Use the zip tie hole to hold the 3d print against the camera for strength.
+
+It is an improvement on my previous EN-EL23 dummy cell design here: https://www.thingiverse.com/thing:4916158

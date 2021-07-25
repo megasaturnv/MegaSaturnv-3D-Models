@@ -1,0 +1,29 @@
+Computer Fan Dust Extractor Filter Standoff (customisable / parametric)
+
+An interlocking standoff for computer fan filter arrays to capture dust. Customisable / Parametric for any fan size. Pre-made STLs where the size of the standoff scales with the fan size:
+* Fan_Filter_Standoff 40.stl
+* Fan_Filter_Standoff 50.stl
+* Fan_Filter_Standoff 60.stl
+* Fan_Filter_Standoff 70.stl
+* Fan_Filter_Standoff 80.stl
+* Fan_Filter_Standoff 92.stl
+* Fan_Filter_Standoff 120.stl
+* Fan_Filter_Standoff 140.stl
+* Fan_Filter_Standoff 200.stl
+* Fan_Filter_Standoff 220.stl
+
+Pre-made STLs where the size of the standoff is always 120mm, so you can interlock assorted fan sizes into one filter array:
+* Fan_Filter_Standoff Outer120 Inner40.stl
+* Fan_Filter_Standoff Outer120 Inner50.stl
+* Fan_Filter_Standoff Outer120 Inner60.stl
+* Fan_Filter_Standoff Outer120 Inner70.stl
+* Fan_Filter_Standoff Outer120 Inner80.stl
+* Fan_Filter_Standoff Outer120 Inner92.stl
+* Fan_Filter_Standoff.scad
+
+Linux BASH script to render the above STLs:
+* RenderAllFanSizes.sh
+
+Test files for tweaking tolerance between interlocking dovetail joints:
+* InterlockingTest.scad
+* InterlockingTest.stl

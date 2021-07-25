@@ -1,0 +1,10 @@
+EN-EL23 battery cover (check comment about size)
+https://www.thingiverse.com/thing:2885479
+
+EN-EL23 datasheet dimensions:
+Height	10.0mm
+Width	34.7mm
+Depth	47.0mm
+
+Maybe use this up the side of the camera
+https://www.thingiverse.com/thing:3395932

@@ -1,0 +1,9 @@
+3/4 Inch BSP Stopper Bung
+
+A simple stopper bung for a 3/4" BSP fitting
+
+34Inch_BSP_Stopper.scad needs the file "threads.scad" by Dan Kirshner placed in the same directory. "threads.scad" can be downloaded here:
+* https://github.com/jcrocholl/kossel/blob/master/threads.scad
+* https://raw.githubusercontent.com/jcrocholl/kossel/master/threads.scad
+* http://dkprojects.net/openscad-threads/threads.scad
+* http://dkprojects.net/openscad-threads/

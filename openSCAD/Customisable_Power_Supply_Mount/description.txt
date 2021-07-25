@@ -1,0 +1,17 @@
+Customisable Power Supply Mount (parametric)
+
+A customisable / parametric mount used to screw power supplies and other cuboid items to walls and the underside of shelves.
+
+Dimensions of some examples:
+Game Cube:
+POWER_SUPPLY_WIDTH = 65.6;
+POWER_SUPPLY_HEIGHT = 46.8;
+
+Xbox 360: (first generation, not sure if it's changed for later models)
+POWER_SUPPLY_WIDTH = 77.2;
+POWER_SUPPLY_HEIGHT = 52.5;
+
+Dell ATX: (note this is a slightly different size to other ATX power supplies)
+POWER_SUPPLY_WIDTH = 151.0;
+POWER_SUPPLY_HEIGHT = 98.1;
+

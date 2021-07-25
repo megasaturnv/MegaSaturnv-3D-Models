@@ -1,0 +1,27 @@
+A compact key chain which is a 1/4" / 6.35mm hex-bit screwdriver and can also store a total of 10 hex bits. The two halves screw together. Fully customizable / parametric.
+
+Centre bit is gripped, due to tapering. The centre bit won't fall out if the screwdriver is turned up-side down. Centre bit must be flipped around for storage.
+
+There are options to add a custom image / logo to the base of the centre hex bit. This doesn't seem to be working in the customiser, and the threads don't generate either due to the missing library - so use the OpenSCAD client.
+
+RenderCapsuleModels.sh is a bash script which will render the STLs provided from the scad file.
+
+Note: This openSCAD model requires RevK's ISO/UTS thread OpenSCAD library here "ISOThread.scad": https://www.thingiverse.com/thing:2158656
+
+Spent over a month designing this - enjoy! Post a make if you print it!
+
+Update 2019-06-16: Fixed missing keyring hole due to Radius -> Diameter change.
+Update 2019-06-18: Fine tuned size of hex bits. Made the model slightly smaller and more compact. Improved stringing issues found on lower half.
+
+
+
+
+
+
+
+
+
+
+
+
+Push a hex bit extension down each storage hole a few times to clean out any stringing / debris.
